@@ -28,6 +28,6 @@ The code generates a QR code with a custom color scheme and saves it as "Result.
 
 6.Saving the Image:
 
-    (a)img.save("Result.png"): Saves the generated QR code as a PNG image named "Result.png".
+(a)img.save("Result.png"): Saves the generated QR code as a PNG image named "Result.png".
 
 After running the "main.py" code, it will create a QR code with the specified link and colors and save it as "Result.png" in the directory.
