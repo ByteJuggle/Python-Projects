@@ -1,4 +1,4 @@
-#QR Code Generator
+<b>#QR Code Generator</b>
 
 The code generates a QR code with a custom color scheme and saves it as "Result.png". Here's a breakdown of what each part does:
 
